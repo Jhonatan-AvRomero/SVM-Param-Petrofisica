@@ -1,0 +1,7 @@
+#Predecir con el modelo
+#prediccion_SVR = Modelo_SVR.predict(X_test)
+#y_pred = np.round(prediccion_SVR, 4)
+#plt.figure(figsize=(8,5))
+#plt.scatter(X_test[0], X_test[1], c = y_pred, cmap = 'jet')
+#plt.colorbar()
+#plt.show()
